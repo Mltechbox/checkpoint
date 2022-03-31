@@ -1,0 +1,28 @@
+
+MOUREDEVS:
+https://github.com/mouredev
+
+SHIELDS:
+https://shields.io/
+
+IDEAS PARA MEJORAR UN PORTFOLIO
+
+1. Crear una aplicación web o móvil sobre el estado del clima. 
+La API AirVisual ofrece información gratuita sobre el tiempo.
+
+2. Sobre películas (un estado visual, por ejemplo)
+La API: OMDb API
+
+3. Un generador de códigos QR.
+Se puede utilizar la API de RCODE Monkey
+ 
+4. Crear una PWA.
+
+5. Una Single Page Application. Con varias secciones y, por ejemplo, con un dashboard. 
+Se pueden usar las librerías three.js o d3js.org (Data-Driven Document)
+
+
+
+
+
+Convertir Wordpress en una PWA
